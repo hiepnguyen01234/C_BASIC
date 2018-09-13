@@ -1,0 +1,17 @@
+1.fseek(fptr1,0l,0);
+
+2.  char *ctr;
+    char n[30];
+    int i,j;
+    ctr=strtok(n," ");
+    while(ctr!=NULL)
+      {
+        strcpy(a[i].data,ctr);
+        i++;
+        j=i;
+        ctr=strtok(NULL," ");
+      }
+
+3. if(doimk(ten,root!=1)
+   printf("khong co ten nguoi dung can tim.\n");
+     -----trong dieu kien if thi ham"doimk" da tu dong chay     roi-----
